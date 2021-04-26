@@ -1,2 +1,3 @@
 module ApplicationHelper
 end
+# application_controllerからhelper_methodで値をもらっています。
